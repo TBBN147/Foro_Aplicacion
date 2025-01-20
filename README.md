@@ -60,6 +60,7 @@ Eliminar un tópico.</p>
 
 # Características del Proyecto
 1. Funcionalidades
+   
    ![Funcionalidad_1.jpg](src/main/resources/img_readme/Funcionalidad_1.jpg)
    ![Funcionalidad_2.jpg](src/main/resources/img_readme/Funcionalidad_2.jpg)
    ![Funcionalidad_3.jpg](src/main/resources/img_readme/Funcionalidad_3.jpg)
